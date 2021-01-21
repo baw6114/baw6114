@@ -4,9 +4,10 @@
 - Unreal Engine
 - Unity
 
-### 😁 Make Indie Game with Team
-- The Memory :  https://store.steampowered.com/app/946380/TheMemory/  (On Steam / PC / Need Pay)
-- 데굴즈 ( Cutie Run ) : https://play.google.com/store/apps/details?id=com.TNPC.SHOOOOT (On PlayStore / Android Only / Free)
+### 😁 Made Indie Game with Team
+- The Memory :  https://store.steampowered.com/app/946380/TheMemory/  (On Steam / PC / Need Pay / Unreal)
+- 데굴즈 ( Cutie Run ) : https://play.google.com/store/apps/details?id=com.TNPC.SHOOOOT (On PlayStore / Android Only / Free / Unreal)
+- Now making mobile game use Unity 😁
 
 <!--
 **baw6114/baw6114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
