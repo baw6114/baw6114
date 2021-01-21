@@ -1,9 +1,10 @@
-### HongSeok, Choi 👋
-😄 Use Develop Tool
+## 👋 HongSeok, Choi
+
+### 😄 Use Develop Tool 
 - Unreal Engine
 - Unity
 
-😁 Make Indie Game with Team
+### 😁 Make Indie Game with Team
 - The Memory :  https://store.steampowered.com/app/946380/TheMemory/  (On Steam / PC / Need Pay)
 - 데굴즈 ( Cutie Run ) : https://play.google.com/store/apps/details?id=com.TNPC.SHOOOOT (On PlayStore / Android Only / Free)
 
