@@ -4,7 +4,7 @@
 - Unreal Engine
 - Unity
 
-### 😁 Made Indie Game with Team
+### 😁 Made Indie Game with Team IT Sum
 - [The Memory](https://store.steampowered.com/app/946380/TheMemory/)  (On Steam / PC / Need Pay / Unreal)
 - [데굴즈 ( Cutie Run )](https://play.google.com/store/apps/details?id=com.TNPC.SHOOOOT) (On GooglePlay / Android Only / Free / Unreal)
 - Now making a mobile game using Unity 😁
