@@ -8,7 +8,6 @@
 - [The Memory](https://store.steampowered.com/app/946380/TheMemory/)  (On Steam / PC / Need Pay / Unreal)
 - [데굴즈 ( Cutie Run )] (Unreal)
 - [바운슬링( BounSling )](https://play.google.com/store/apps/details?id=com.TNPC.BounSling) (On GooglePlay / Android Only / Free / Unity)
-- 😁
 
 ### 😁 Current Working
 - [Kigle](https://kigle.co.kr/)
